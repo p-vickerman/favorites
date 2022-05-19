@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+    align-content: center;
+}
+li {
+    font-style: italic;
+    font-size: medium;
+    font-stretch: extra-expanded;
+}
+h2 {
+    text-shadow: 2px 2px black;
+}
